@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:passion_jewelry/screen/login_screen.dart';
-import 'package:passion_jewelry/screen/splash_screen.dart';
+import 'package:passion_jewelry/screens/login_screen.dart';
+import 'package:passion_jewelry/screens/splash_screen.dart';
 
 var routes = <String, WidgetBuilder>{
   // "home": (BuildContext context) => 
